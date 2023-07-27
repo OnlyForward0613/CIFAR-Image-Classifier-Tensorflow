@@ -8,18 +8,18 @@ Welcome to the Everyday Objects Classifier project! This repository addresses th
 ## Dataset
 The CIFAR Image Dataset contains 60,000 32x32 color images, categorized into 10 classes. Each class represents an everyday object, and the dataset is evenly distributed, with 6000 images per class. Below is a table summarizing the dataset information:
 
-|   Class   | Number of Images |
-|:---------:|:---------------:|
-|   Plane   |      6000       |
-|   Car     |      6000       |
-|   Bird    |      6000       |
-|   Cat     |      6000       |
-|   Deer    |      6000       |
-|   Dog     |      6000       |
-|   Frog    |      6000       |
-|  Horse    |      6000       |
-|   Ship    |      6000       |
-|  Truck    |      6000       |
+|   Class     | Number of Images|
+|:-----------:|:---------------:|
+|   ✈️Plane   |      6000       |
+|   🚗Car     |      6000       |
+|   🐤Bird    |      6000       |
+|   🐈‍⬛Cat     |      6000       |
+|   🦌Deer    |      6000       |
+|   🐩Dog     |      6000       |
+|   🐸Frog    |      6000       |
+|  🏇🏾Horse    |      6000       |
+|   🚢Ship    |      6000       |
+|  🚛Truck    |      6000       |
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/your-username/Everyday-Objects-Classifier.git`
